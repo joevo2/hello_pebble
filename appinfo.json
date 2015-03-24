@@ -1,0 +1,19 @@
+{
+  "uuid": "bf20a211-b2e9-4456-84f5-22ed52ce1b37",
+  "shortName": "hello_pebble",
+  "longName": "hello_pebble",
+  "companyName": "Alpaca Lab",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt"],
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}

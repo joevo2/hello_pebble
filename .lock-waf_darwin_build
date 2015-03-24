@@ -1,0 +1,8 @@
+argv = ['/Users/Joel/pebble-dev/PebbleSDK-3.0-dp4/Pebble/waf', 'configure', 'build']
+environ = {'TERM_SESSION_ID': 'E4BC37E5-FA4A-4E6C-85E2-EF786AF1B4D3', 'XPC_SERVICE_NAME': '0', 'PYTHONPATH': '/Users/Joel/pebble-dev/PebbleSDK-3.0-dp4/bin/../.env/lib/python2.7/site-packages', 'VERSIONER_PYTHON_PREFER_32_BIT': 'no', 'LC_CTYPE': 'UTF-8', 'TERM_PROGRAM_VERSION': '343.6', 'SSH_AUTH_SOCK': '/private/tmp/com.apple.launchd.wIJwKHvBBB/Listeners', 'SHELL': '/bin/bash', 'LOGNAME': 'Joel', 'USER': 'Joel', 'HOME': '/Users/Joel', 'PATH': '/Users/Joel/pebble-dev/PebbleSDK-3.0-dp4/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/Joel/Library/Android/sdk/platform-tools/:/Users/Joel/pebble-dev/PebbleSDK-3.0-dp4/arm-cs-tools/bin', 'TMPDIR': '/var/folders/gw/4dvyd6411298c0xtrhgl1bm80000gn/T/', 'TERM_PROGRAM': 'Apple_Terminal', 'TERM': 'xterm-256color', 'Apple_PubSub_Socket_Render': '/private/tmp/com.apple.launchd.RVRAh9fGfZ/Render', 'VERSIONER_PYTHON_VERSION': '2.7', 'SHLVL': '2', 'XPC_FLAGS': '0x0', '__CF_USER_TEXT_ENCODING': '0x1F5:0x0:0x0', 'PWD': '/Users/Joel/Projects/hello_pebble', '_': '/Users/Joel/pebble-dev/PebbleSDK-3.0-dp4/Pebble/waf'}
+files = ['/Users/Joel/Projects/hello_pebble/wscript']
+hash = 2423177563626642261
+options = {'files': '', 'jobs': 4, 'verbose': 0, 'nocache': False, 'progress_bar': 0, 'timestamp': None, 'distcheck_args': None, 'top': '', 'destdir': '', 'keep': 0, 'zones': '', 'debug': False, 'prefix': '/usr/local/', 'download': False, 'force': False, 'targets': '', 'out': ''}
+out_dir = '/Users/Joel/Projects/hello_pebble/build'
+run_dir = '/Users/Joel/Projects/hello_pebble'
+top_dir = '/Users/Joel/Projects/hello_pebble'
